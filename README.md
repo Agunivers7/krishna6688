@@ -13,9 +13,6 @@
 [<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 <br />
 
-##Languages in my project
-
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna6688&theme=midnight-purple)
 
 [website]: https://google.com
 [telegram]: https://t.me/hacker11000
