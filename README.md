@@ -13,7 +13,7 @@
 [<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 <br />
 
-#Lnguages in my project
+##Languages in my project
 
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna6688&theme=midnight-purple)
 
