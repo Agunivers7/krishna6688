@@ -1,6 +1,6 @@
 ### Hi, I'mKrishna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Website](https://img.shields.io/badge/Developer-web-green?style=flat-square)](https://lightninguserbot.blogspot.com)
-## Your short description
+## Description
 - 🔭 I’m currently working on Team Zeda
 - 🌱 I’m currently learning Python
 - ⚡ Like music
