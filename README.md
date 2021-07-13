@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/badge/Developer-web-green?style=flat-square)](https://lightninguserbot.blogspot.com)
 ## Description
 - 🔭 I’m currently working on Team Zeda
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Ruby
 - ⚡ Like music
 
 
