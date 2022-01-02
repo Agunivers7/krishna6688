@@ -1,7 +1,7 @@
 ### Hi, I'mKrishna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Web-Developer-green?style=flat-square)](krishna6688.me)
+[![Website](https://img.shields.io/badge/Web-Developer-green?style=flat-square)](#)
 ## Description
-- 🔭 I’m currently working on Team Zeda
+- 🔭 I’m currently working on Team Vision
 - 🌱 I’m currently learning Ruby
 - ⚡ Like music
 
