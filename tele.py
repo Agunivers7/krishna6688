@@ -1,4 +1,4 @@
-import telebot
+
 
 token = "2103300889:AAEVZd_cAFHdJDU-hAYOdYtwALFwACETP2A"
 
