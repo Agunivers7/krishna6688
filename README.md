@@ -16,3 +16,4 @@
 
 [website]: https://krishna6688.me
 [telegram]: https://t.me/hacker11000
+[Instagram]: https://t.me/hacker11000
