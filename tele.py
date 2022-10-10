@@ -1,4 +1,5 @@
 import telebot
+
 token = "2103300889:AAEVZd_cAFHdJDU-hAYOdYtwALFwACETP2A"
 
 bot = telebot.TeleBot("token")
@@ -11,4 +12,5 @@ def send_welcome(message):
 def echo_all(message):
 	bot.reply_to(message, message.text)
 
-bot.infinity_polling()
+print("Running Bot... ") 
+bot.polling()
